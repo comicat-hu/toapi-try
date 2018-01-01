@@ -1,15 +1,18 @@
+## toapi-try
+
 http://www.toapi.org/
+
 https://github.com/gaojiuli/toapi
 
-run with python3.6
-flask framework
-XPath
+* run with python3.6
+* flask framework
+* XPath
 
 --
 
 docker image (amazonlinux install toapi with python3.6)
 
-https://hub.docker.com/r/comi/amazonlinux-toapi/
+* https://hub.docker.com/r/comi/amazonlinux-toapi/
 
 --
 
@@ -43,6 +46,6 @@ run toapi
 
 setting ajax true need phantomjs
 
-https://www.vultr.com/docs/how-to-install-phantomjs-on-ubuntu-16-04
+* https://www.vultr.com/docs/how-to-install-phantomjs-on-ubuntu-16-04
 
 --
