@@ -16,8 +16,8 @@ docker image (amazonlinux install toapi with python3.6)
 
 --
 
-python36
-pip-3.6
+* python36
+* pip-3.6
 
 --
 
@@ -49,3 +49,9 @@ setting ajax true need phantomjs
 * https://www.vultr.com/docs/how-to-install-phantomjs-on-ubuntu-16-04
 
 --
+
+click issue:
+
+* http://click.pocoo.org/5/python3/
+* export LC_ALL=en_US.utf-8
+* export LANG=en_US.utf-8
